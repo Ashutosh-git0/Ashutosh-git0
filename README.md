@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Ashutosh-git0
+- 👀 I’m interested in to do small projects 
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
+
+<!---
+Ashutosh-git0/Ashutosh-git0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
